@@ -6,3 +6,7 @@
 -interview
 -fundamental javascript
 Saya ingin belajar
+   ^VUE
+   ^REACT
+-interview
+LARAVEL
