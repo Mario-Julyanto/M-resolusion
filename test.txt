@@ -3,3 +3,5 @@
   *Framework javascript
 -php
 -interview
+-fundamental javascript
+Saya ingin belajar
