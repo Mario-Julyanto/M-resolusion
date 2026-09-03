@@ -1,6 +1,11 @@
 - JAVASCRIPT 
-  *ES6
   *Framework javascript
+   ^REACT
+    ^APALAH
+-php
+-interview
+-fundamental javascript
+Saya ingin belajar
    ^VUE
    ^REACT
 -interview
