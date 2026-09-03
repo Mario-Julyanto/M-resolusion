@@ -1,5 +1,7 @@
 - JAVASCRIPT 
   *ES6
   *Framework javascript
--php
+   ^VUE
+   ^REACT
 -interview
+LARAVEL
