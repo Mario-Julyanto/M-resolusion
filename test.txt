@@ -1,6 +1,7 @@
 - JAVASCRIPT 
-  *ES6
   *Framework javascript
+   ^REACT
+    ^APALAH
 -php
 -interview
 -fundamental javascript
